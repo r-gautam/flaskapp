@@ -1,6 +1,6 @@
 # Deploy sample flask app to GKE cluster
 
-### Pre-requisite
+### Prerequisite
 K8 cluster integrated with gitlab project<br>
 Follow this link to link existing cluster 
 https://docs.gitlab.com/ee/user/project/clusters/add_existing_cluster.html 
